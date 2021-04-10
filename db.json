@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Pritam",
+      "designation": "web Developer",
+      "technologies": "react.js",
+      "skills": "UI/Ux",
+      "availability": "3",
+      "base_location": "Bengaluru",
+      "open_relocate": "yes"
+    },
+    {
+      "id": "2",
+      "name": "lina",
+      "designation": "web Developer",
+      "technologies": "react.js",
+      "skills": "UI/Ux",
+      "availability": "3",
+      "base_location": "Bengaluru",
+      "open_relocate": "yes"
+    },
+    {
+      "id": "3",
+      "name": "ipsum",
+      "designation": "web Developer",
+      "technologies": "react.js",
+      "skills": "UI/Ux",
+      "availability": "3",
+      "base_location": "Bengaluru",
+      "open_relocate": "yes"
+    },
+    {
+      "id": "4",
+      "name": "john",
+      "designation": "web Developer",
+      "technologies": "react.js",
+      "skills": "UI/Ux",
+      "availability": "3",
+      "base_location": "Bengaluru",
+      "open_relocate": "yes"
+    },
+    {
+      "id": "4",
+      "name": "lara",
+      "designation": "web Developer",
+      "technologies": "react.js",
+      "skills": "UI/Ux",
+      "availability": "3",
+      "base_location": "Bengaluru",
+      "open_relocate": "yes"
+    },
+    {
+      "id": "5",
+      "name": "lorem",
+      "designation": "web Developer",
+      "technologies": "react.js",
+      "skills": "UI/Ux",
+      "availability": "3",
+      "base_location": "Bengaluru",
+      "open_relocate": "yes"
+    }
+  ]
+}
